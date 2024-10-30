@@ -25,8 +25,8 @@ class Bot:
         self.team = "TeamName"  # This is your team name
         # This is the course that the ship has to follow
         self.course = [
-            Checkpoint(latitude=43.797109, longitude=-11.264905, radius=50),
-            Checkpoint(longitude=-29.908577, latitude=17.999811, radius=50),
+            Checkpoint(latitude=58.797109, longitude=-48.264905, radius=50),
+            Checkpoint(longitude=-73.908577, latitude=-70.999811, radius=50),
             Checkpoint(latitude=-11.441808, longitude=-29.660252, radius=50),
             Checkpoint(longitude=-63.240264, latitude=-61.025125, radius=50),
             Checkpoint(latitude=2.806318, longitude=-168.943864, radius=1990.0),
