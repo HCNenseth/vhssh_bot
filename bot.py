@@ -44,7 +44,7 @@ class Bot:
             Checkpoint(latitude=-15, longitude=77, radius=1100.0),
             Checkpoint(latitude=-42, longitude=13, radius=50.0),
             Checkpoint(latitude=8, longitude=-24, radius=50.0),
-            Checkpoint(latitude=46, longitude=-11, radius=50.0)
+            Checkpoint(latitude=46, longitude=-11, radius=50.0),
             Checkpoint(
                 latitude=config.start.latitude,
                 longitude=config.start.longitude,
